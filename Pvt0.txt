@@ -1,1 +1,4 @@
-hola mundo
+<<<<<<< HEAD
+=======
+Reaño es gay
+>>>>>>> 2258e9b80db49080281e6a81cea6d78f616e1ccb
